@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Practice Apps
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A collection of simple React apps to practice React skills.
 
 ## Available Scripts
 
